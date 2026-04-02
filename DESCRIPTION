@@ -1,0 +1,18 @@
+Package: fizzbuzzing
+Type: Package
+Title: Practice Package
+Version: 0.1.0
+Authors@R: c(
+    person(
+      "Heike", "Hofmann",
+      email = "heike.hofmann@gmail.com",
+      role = c("aut", "cre")
+    )
+  )
+Description: More about what it does (maybe more than one line).
+    Continuation lines should be indented.
+License: CC BY 4.0
+Encoding: UTF-8
+LazyData: true
+URL: https://github.com/stat-assignments/fizzbuzzing
+BugReports: https://github.com/stat-assignments/fizzbuzzing/issues
