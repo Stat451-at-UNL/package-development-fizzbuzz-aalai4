@@ -16,3 +16,11 @@ Encoding: UTF-8
 LazyData: true
 URL: https://github.com/stat-assignments/fizzbuzzing
 BugReports: https://github.com/stat-assignments/fizzbuzzing/issues
+LinkingTo: Rcpp
+Imports: Rcpp
+Suggests:
+    bench,
+    knitr,
+    rmarkdown
+VignetteBuilder: knitr
+RoxygenNote: 7.1.0
